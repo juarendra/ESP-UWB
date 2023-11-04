@@ -11,6 +11,6 @@
 ## Preview Hardware
 <p align="center">
 
-  <img src="DOC/PINOUT-DWM1004C.jpeg" width="50%" height="50%">
-  <img src="DOC/PINOUT-ESP32.jpeg" width="50%" height="50%">
+  <img src="DOC/PINOUT-DWM1004C.jpeg" width="75%" height="75%">
+  <img src="DOC/PINOUT-ESP32.jpeg" width="75%" height="75%">
 </p>
