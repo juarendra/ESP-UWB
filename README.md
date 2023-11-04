@@ -7,6 +7,8 @@
 - header i2c for oled display
 - header pinout esp32
 - pad smd dwm1004c
+- modul charger tp4056
+- switch on off
 
 ## Preview Hardware
 <p align="center">
