@@ -1,4 +1,5 @@
 # ESP-UWB
+This is PCB or Modul that combine ESP32 WROOM and DWM1004C in one Board, all pin are connected to header like ESP32 DEV KIT, and DWM1004C some pin are connected to SMD PAD on Bottom of PCB. You can find the gerber file, BOM LIST file and schematic file on this repository. 
 
 ## Spesification
 - esp32 wroom
